@@ -1,1 +1,1 @@
-A simple Cgse quuz.
+A simple Cgse quiz.
