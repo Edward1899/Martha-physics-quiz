@@ -1,1 +1,1 @@
-A simple Cgse quiz.
+A simple GCSE quiz.
